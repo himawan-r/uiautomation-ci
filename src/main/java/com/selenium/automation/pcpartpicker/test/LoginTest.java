@@ -13,7 +13,7 @@ import com.selenium.automation.pcpartpicker.pageobject.LoginPage;
 
 public class LoginTest extends WebDriverTestBase {
 	
-	private static final String INVALID_USERNAME = "invalid_username";
+	private static final String INVALID_USERNAME = "invalid_username_test";
 	private static final String INVALID_PASSWORD = "invalid_password";
 	
 	@Test
